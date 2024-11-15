@@ -22,8 +22,8 @@ Android Studio(Latest Version)
 ```
 /*
 Program to display animation operation”.
-Developed by: Akshaya lakshmi V S
-Registeration Number : 212222040005
+Developed by: sanjay k
+Registeration Number : 212222040146
 */
 ```
 ## In activity_main.xml
